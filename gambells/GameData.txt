@@ -1,2 +1,0 @@
-Player: Ben Kruseski
-Balance: $210000.00
