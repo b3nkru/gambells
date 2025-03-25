@@ -34,7 +34,7 @@ public class GUIFrame extends JFrame {
     
     public GUIFrame() {
         setTitle("Plinko Game");
-        setSize(250, 300);
+        setSize(370, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
         
